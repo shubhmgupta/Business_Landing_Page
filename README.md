@@ -44,9 +44,9 @@ This project represents the landing page for a business website that has been co
 
 ## Contributing
 If you'd like to contribute to the project, follow these steps:
-- 1. Fork the repository.
-- 2. Create a new branch for your feature or bug fix.
-- 3. Make your changes and submit a pull request.
+-  Fork the repository.
+-  Create a new branch for your feature or bug fix.
+-  Make your changes and submit a pull request.
 
 ## License 
 Author: [Shubham Gupta](https://github.com/shubhmgupta/)
