@@ -1,4 +1,4 @@
-# Business Landing Page (#https://shubhmgupta.github.io/Business_Landing_Page/)
+# Business Landing Page
 
 ## Overview
 
@@ -47,6 +47,8 @@ If you'd like to contribute to the project, follow these steps:
 -  Fork the repository.
 -  Create a new branch for your feature or bug fix.
 -  Make your changes and submit a pull request.
+
+Deployed (https://shubhmgupta.github.io/Business_Landing_Page/)
 
 ## License 
 Author: [Shubham Gupta](https://github.com/shubhmgupta/)
