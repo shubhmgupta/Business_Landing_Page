@@ -1,4 +1,4 @@
-# Business Landing Page (https://shubhmgupta.github.io/Business_Landing_Page/)
+# Business Landing Page (#https://shubhmgupta.github.io/Business_Landing_Page/)
 
 ## Overview
 
